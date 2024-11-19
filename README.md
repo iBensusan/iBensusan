@@ -17,6 +17,6 @@ Python, Django, PowerBI, SQL, Microsoft Office, Data analysis, HTML, CSS, JavaSc
 
 ## ⚡ Fun fact: 
 
-I started my career as a chef before transitioning into the tech world, and I’m a parent of two!
+I started my career as a chef before transitioning into the tech world.
 
 
