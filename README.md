@@ -8,7 +8,7 @@ I’m currently diving deeper into Python and JavaScript frameworks, while expan
 
 ## 💻 Skills: 
 
-Python, Django, PowerBI, SQL, Microsoft Office, Data analysis, HTML, CSS, JavaScript, React, Git
+Python, Data analysis, Django, SQL, PowerBI, Microsoft Office, HTML, CSS, JavaScript, React, Git
 
 ## 📫 How to reach me: 
 
