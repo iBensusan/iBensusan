@@ -4,7 +4,7 @@ I’m originally from Spain and have been living in the UK since 2015, currently
 
 Creative, proactive, self-critical and decisive. Eager to learn and take on new challenges.
 
-Building on a strong foundation in Python and data workflows, I'm continuously refining my skills across the data spectrum—from engineering to analysis—driven by a passion for business, finance, and meaningful optimisation.
+Building on a strong foundation in Python and data workflows, I'm continuously refining my skills across the data spectrum—from engineering to analysis-driven by a passion for business, finance, and meaningful optimisation.
 
 ## 💻 Tech Stack & Skills: 
 
